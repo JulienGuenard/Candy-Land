@@ -1,4 +1,8 @@
 # Candy Land
+## Description du git
+Ce git est là pour montrer la partie script du projet, tout le reste est enlevé pour des raisons de tailles acceptable sur Github, le projet unity complet est disponible ici : 
+https://drive.google.com/file/d/1M3s-PtYUepUzRtfJutnpTq1o1mRIbg3u/view?usp=sharing
+
 ## Description du projet
 Projet étudiant d'un jeu narratif en 2D dans un monde sucré tout en carton.
 
